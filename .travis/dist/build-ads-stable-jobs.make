@@ -88,7 +88,7 @@ includes[] = includes/build-ads-features.make
 ; includes[] = includes/build-ads-items.make
 
 ; Provides common Jobs features for ADS Drupal distribution.
-includes[] = includes/build-ads-jobs.make
+; includes[] = includes/build-ads-jobs.make
 
 ; Provides common Music features for ADS Drupal distribution.
 ; includes[] = includes/build-ads-music.make
@@ -100,7 +100,7 @@ includes[] = includes/build-ads-jobs.make
 ; includes[] = includes/build-ads-services.make
 
 ; Provides common Travel features for ADS Drupal distribution.
-; includes[] = includes/build-ads-travel.make
+ includes[] = includes/build-ads-travel.make
 
 ; Provides common Vehicles features for ADS Drupal distribution.
 ; includes[] = includes/build-ads-vehicles.make

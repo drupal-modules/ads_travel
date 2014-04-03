@@ -1,7 +1,7 @@
-ads_animals
+ADS Travel
 ===========
 
-Provides common Animal features for ADS Drupal distribution.
+Provides common Travel features for ADS Drupal distribution.
 
 Build status
 ------------
